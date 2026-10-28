@@ -78,6 +78,8 @@ int main()
 }
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c23225df-02b5-4a26-a171-bb62c3b9c83b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41158f47-23d7-4b1d-a665-72b07b1df312" />
+
 
 ## RESULT
